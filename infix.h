@@ -1,5 +1,5 @@
-#ifndef INFIX_H_
-#define INFIX_H_
+#ifndef INFIX__H_
+//#define INFIX_H_
 #include "list.h"
 typedef struct token
 {
