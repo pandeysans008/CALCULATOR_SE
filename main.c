@@ -75,7 +75,6 @@ void insert0AtStartAndAfterBrac(char *line)
 int main()
 {
     printf("This project is inspired from the bc command line calculator in Linux\n");
-    printf("---- Made by Om Khare, 112003066, Div 1 ----\n");
     printf("Start typing the commands that you wish to execute (eg. (12+34)*5-8)\n");
     char line[LINE_LEN];
     Number *result;
